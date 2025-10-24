@@ -25,6 +25,12 @@ I enjoy tackling real-world challenges, innovating through tech, and building me
 </p>
 
 ---
+## HactoberFest'25 : Super Contributor
+
+[![An image of @rohitmane01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rohitmane01)](https://holopin.io/@rohitmane01)
+
+---
+
 
 ## 💡 What I Do
 
