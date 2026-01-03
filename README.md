@@ -1,81 +1,116 @@
+# Hi, I’m Rohit Mane
 
-# Hi there, I'm Rohit Mane 👋
-
-**B.Tech – Computer Science & Business Systems | Java & DSA**
+**B.Tech – Computer Science & Business Systems | Java & DSA | Software Engineering Intern Aspirant**
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=engineeringduration&label=Profile%20views&color=0e75b6&style=flat" alt="profileviews" />
+  <img src="https://komarev.com/ghpvc/?username=engineeringduration&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" alt="Profile animation" width="100%" />
+</div>
+
+---
+
+## About Me
+
+I am a **third-year B.Tech student in Computer Science & Business Systems**, currently focused on **Java, Data Structures & Algorithms, and core computer science fundamentals**.
+
+I am preparing for **software engineering internships**, with emphasis on:
+
+* Writing **clean, structured Java code**
+* Strong **problem-solving and DSA fundamentals**
+* Understanding **how real systems work**, not just solving isolated problems
+
+I prioritize **depth, consistency, and engineering discipline** over surface-level exposure.
+
+---
+
+## GitHub Highlights
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rohitmane01&theme=algolia&margin-w=10" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
 
-## About
+## Hacktoberfest 2025 — Super Contributor
 
-Third-year **Computer Science & Business Systems** undergraduate focused on **Java, Data Structures & Algorithms, and core computer science fundamentals**.
+<p align="center">
+  <a href="https://holopin.io/@rohitmane01">
+    <img src="https://holopin.me/rohitmane01" alt="Holopin badges" />
+  </a>
+</p>
 
-Preparing for **software engineering internships** with emphasis on:
-
-* Clean, structured Java code
-* Strong problem-solving ability
-* Fundamentals-first engineering mindset
-
----
-
-## Focus
-
-* **Java** — OOP, Collections, exception handling
-* **DSA** — Arrays, Strings, Linked Lists, Stacks, Queues, Trees, Heaps, Greedy
-* **Databases** — SQL (MySQL fundamentals)
-* **Engineering practice** — consistency, clarity, correctness
 
 ---
 
-## Skills
+## Technical Skills
 
-**Languages:** Java (primary), JavaScript, Python, C
-**Core:** Data Structures & Algorithms, complexity analysis
-**Foundations:** SQL, REST basics
-**Tools:** Git, GitHub, Linux, IntelliJ IDEA
+**Programming Languages**
 
----
+* Java (primary)
+* JavaScript, Python, C
 
-## Coding Profiles
 
-* LeetCode: [https://leetcode.com/u/rohit-mane-/](https://leetcode.com/u/rohit-mane-/)
-* InterviewBit: [https://www.interviewbit.com/profile/engineering-duration/](https://www.interviewbit.com/profile/engineering-duration/)
-* CodeChef: [https://www.codechef.com/users/rohit_mane_01](https://www.codechef.com/users/rohit_mane_01)
+**Web & Backend (Foundational)**
 
----
+* React.js, Express.js, Firebase
+* MongoDB, MySQL
 
-## Writing
+**Blockchain (Foundational Exposure)**
 
-Technical blogs and learning notes:
-[https://1rohit.medium.com/](https://1rohit.medium.com/)
+* Solidity, Ethereum
 
----
+**Tools**
 
-## Open Source
-
-Hacktoberfest 2025 — Super Contributor
-[https://holopin.io/@rohitmane01](https://holopin.io/@rohitmane01)
+* Git & GitHub
+* Linux (basic)
+* IntelliJ IDEA / VS Code
 
 ---
 
-## Contact
+## DSA & Coding Profiles
 
-* LinkedIn: [https://www.linkedin.com/in/rohit-mane-93b281333/](https://www.linkedin.com/in/rohit-mane-93b281333/)
+Sharpening problem-solving skills through consistent practice:
+
+<p align="left">
+  <a href="https://leetcode.com/u/rohit-mane-/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://www.interviewbit.com/profile/engineering-duration/">
+    <img src="https://img.shields.io/badge/InterviewBit-1DA1F2?style=for-the-badge" />
+  </a>
+  <a href="https://www.codechef.com/users/rohit_mane_01">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-**Note for recruiters:**
-Actively seeking **software engineering internship opportunities** focused on strong fundamentals and long-term growth.
+## Writing & Blogs
+
+I document my learning and engineering insights through technical writing:
+
+<p align="left">
+  <a href="https://1rohit.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-If you want next:
+## Let’s Connect
 
-* **One-screen ultra-minimal** version
-* **Pinned-repo strategy** for internships
-* **Resume summary aligned with this README**
+<p align="left">
+  <a href="https://www.linkedin.com/in/rohit-mane-93b281333/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Just tell me.
+📫 Open to **software engineering internships**, mentorship, and meaningful technical discussions.
+
+---
+
