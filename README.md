@@ -77,7 +77,7 @@ I prioritize **depth, consistency, and engineering discipline** over surface-lev
 Sharpening problem-solving skills through consistent practice:
 
 <p align="left">
-  <a href="https://leetcode.com/u/rohit-mane-/">
+  <a href="https://leetcode.com/u/rohitmane-dev/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.interviewbit.com/profile/engineering-duration/">
