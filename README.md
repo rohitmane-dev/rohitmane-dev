@@ -125,7 +125,7 @@ Linux
 
 I actively practice algorithms and problem solving.
 
-- 💯 300+ LeetCode Problems Solved
+-  350+ LeetCode Problems Solved
 - Strong focus on DSA & System Design fundamentals
 
 <p align="left">
@@ -134,13 +134,6 @@ I actively practice algorithms and problem solving.
 <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://www.codechef.com/users/rohit_mane_01">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef"/>
-</a>
-
-<a href="https://www.interviewbit.com/profile/engineering-duration/">
-<img src="https://img.shields.io/badge/InterviewBit-blue?style=for-the-badge"/>
-</a>
 
 </p>
 
