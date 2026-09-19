@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://rohitmane.dev"><img src="https://img.shields.io/badge/Portfolio-rohitmane.dev-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/rohit-mane-93b281333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://1rohit.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://rohitmane-dev.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
   <a href="https://leetcode.com/u/rohitmane-dev/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
 </p>
 
@@ -15,6 +15,10 @@
   <img src="https://komarev.com/ghpvc/?username=rohitmane-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/rohitmane-dev?label=Followers&style=flat&color=0e75b6" alt="Followers" />
 </p>
+
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Vq0sQ79QIZV6V1R-t7qtmw.gif" width="100%" alt="Banner" />
+</div>
 
 ---
 
@@ -26,7 +30,7 @@ I'm interested in building scalable distributed systems, designing reliable back
 
 - 🔭 Currently working on backend services, queue orchestration and CI/CD automation
 - 🌱 Going deeper on distributed systems, Kubernetes and system design
-- ✍️ I write about what I learn at [1rohit.medium.com](https://1rohit.medium.com/)
+- ✍️ I write about what I learn at [rohitmane-dev.medium.com](https://rohitmane-dev.medium.com/)
 - 📫 Reach me through [rohitmane.dev](https://rohitmane.dev)
 
 ---
@@ -136,7 +140,7 @@ I practise algorithms and data structures regularly, with a focus on DSA and sys
 I write about engineering concepts, architecture decisions and lessons learned while building production systems — distributed systems, backend engineering, cloud infrastructure, system design and DevOps.
 
 <p>
-  <a href="https://1rohit.medium.com/"><img src="https://img.shields.io/badge/Read_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read on Medium" /></a>
+  <a href="https://rohitmane-dev.medium.com/"><img src="https://img.shields.io/badge/Read_on_Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read on Medium" /></a>
 </p>
 
 ---
@@ -156,7 +160,7 @@ Hacktoberfest contributor, building and contributing to backend infrastructure p
 <p>
   <a href="https://rohitmane.dev"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/rohit-mane-93b281333/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://1rohit.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+  <a href="https://rohitmane-dev.medium.com/"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
 </p>
 
 Always open to **software engineering roles**, **backend and cloud/infrastructure work**, **open source collaboration** and **technical discussions**.
